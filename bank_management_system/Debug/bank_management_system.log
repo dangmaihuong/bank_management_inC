@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\dangm\source\repos\bank_management_system\main.c(403,1): warning C4305:  'initializing': truncation from 'double' to 'float'
+  bank_management_system.vcxproj -> C:\Users\dangm\source\repos\bank_management_system\Debug\bank_management_system.exe
